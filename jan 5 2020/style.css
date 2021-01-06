@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: Scratch Regular;
+    src: 
+      url('./fonts/Scratch-Regular (1).ttf') format('truetype');
+  }
+
+  body {
+      font-family: Scratch Regular;
+
+  }
+
+  h1 {
+      font-family: Scratch Regular;
+      font-weight: bold;
+      font-size: 40px;
+  }
